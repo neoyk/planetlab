@@ -1,0 +1,1285 @@
+--2013-03-04 02:52:25--  http://www.visitbeijing.com.cn/
+Resolving www.visitbeijing.com.cn... 115.25.217.37
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/index.html'
+
+     0K .......... .......... .......... .......... .......... 14.2M
+    50K .......... .......... .......... .......... .......... 62.2M
+   100K .......... .......... ..........                       51.1M=0.005s
+
+2013-03-04 02:52:26 (26.5 MB/s) - `www.visitbeijing.com.cn/index.html' saved [133720]
+
+Loading robots.txt; please ignore errors.
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/robots.txt
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68 [text/plain]
+Saving to: `www.visitbeijing.com.cn/robots.txt'
+
+     0K                                                       100% 7.03M=0s
+
+2013-03-04 02:52:26 (7.03 MB/s) - `www.visitbeijing.com.cn/robots.txt' saved [68/68]
+
+Removing www.visitbeijing.com.cn/robots.txt.
+Removing www.visitbeijing.com.cn/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/cn_visitbj/newX/css/base.css
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7331 (7.2K) [text/css]
+Saving to: `www.visitbeijing.com.cn/upload/cn_visitbj/newX/css/base.css'
+
+     0K .......                                               100% 11.8M=0.001s
+
+2013-03-04 02:52:26 (11.8 MB/s) - `www.visitbeijing.com.cn/upload/cn_visitbj/newX/css/base.css' saved [7331/7331]
+
+Removing www.visitbeijing.com.cn/upload/cn_visitbj/newX/css/base.css.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/cn_visitbj/newX/js/jquery.js
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 261525 (255K) [application/x-javascript]
+Saving to: `www.visitbeijing.com.cn/upload/cn_visitbj/newX/js/jquery.js'
+
+     0K .......... .......... .......... .......... .......... 19% 22.0M 0s
+    50K .......... .......... .......... .......... .......... 39% 56.8M 0s
+   100K .......... .......... .......... .......... .......... 58% 57.6M 0s
+   150K .......... .......... .......... .......... .......... 78% 70.4M 0s
+   200K .......... .......... .......... .......... .......... 97% 73.6M 0s
+   250K .....                                                 100% 47.8M=0.005s
+
+2013-03-04 02:52:26 (46.2 MB/s) - `www.visitbeijing.com.cn/upload/cn_visitbj/newX/js/jquery.js' saved [261525/261525]
+
+Removing www.visitbeijing.com.cn/upload/cn_visitbj/newX/js/jquery.js.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/cn_visitbj/favicon.ico
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1150 (1.1K) [image/x-icon]
+Saving to: `www.visitbeijing.com.cn/upload/cn_visitbj/favicon.ico'
+
+     0K .                                                     100%  103M=0s
+
+2013-03-04 02:52:26 (103 MB/s) - `www.visitbeijing.com.cn/upload/cn_visitbj/favicon.ico' saved [1150/1150]
+
+Removing www.visitbeijing.com.cn/upload/cn_visitbj/favicon.ico.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/cn_visitbj/newX/css/index.css
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 30370 (30K) [text/css]
+Saving to: `www.visitbeijing.com.cn/upload/cn_visitbj/newX/css/index.css'
+
+     0K .......... .......... .........                       100% 14.3M=0.002s
+
+2013-03-04 02:52:26 (14.3 MB/s) - `www.visitbeijing.com.cn/upload/cn_visitbj/newX/css/index.css' saved [30370/30370]
+
+Removing www.visitbeijing.com.cn/upload/cn_visitbj/newX/css/index.css.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/cn_visitbj/newX/css/ad_index.css
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 969 [text/css]
+Saving to: `www.visitbeijing.com.cn/upload/cn_visitbj/newX/css/ad_index.css'
+
+     0K                                                       100%  102M=0s
+
+2013-03-04 02:52:26 (102 MB/s) - `www.visitbeijing.com.cn/upload/cn_visitbj/newX/css/ad_index.css' saved [969/969]
+
+Removing www.visitbeijing.com.cn/upload/cn_visitbj/newX/css/ad_index.css.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/visitbjapp/index.shtml
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/visitbjapp/index.shtml'
+
+     0K .......... ......                                      30.0M=0.001s
+
+2013-03-04 02:52:26 (30.0 MB/s) - `www.visitbeijing.com.cn/visitbjapp/index.shtml' saved [17093]
+
+Removing www.visitbeijing.com.cn/visitbjapp/index.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/logo_bate.gif
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8433 (8.2K) [image/gif]
+Saving to: `www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/logo_bate.gif'
+
+     0K ........                                              100% 22.1M=0s
+
+2013-03-04 02:52:26 (22.1 MB/s) - `www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/logo_bate.gif' saved [8433/8433]
+
+Removing www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/logo_bate.gif.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/topics/72hmq/
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/topics/72hmq/index.html'
+
+     0K .......... .......... ........                         19.0M=0.001s
+
+2013-03-04 02:52:26 (19.0 MB/s) - `www.visitbeijing.com.cn/topics/72hmq/index.html' saved [29563]
+
+Removing www.visitbeijing.com.cn/topics/72hmq/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/weekplay/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/weekplay/index.html'
+
+     0K .......... .......... .....                            17.1M=0.001s
+
+2013-03-04 02:52:26 (17.1 MB/s) - `www.visitbeijing.com.cn/weekplay/index.html' saved [25938]
+
+Removing www.visitbeijing.com.cn/weekplay/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/topics/freemuseums/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/topics/freemuseums/index.html'
+
+     0K .......... ..........                                  17.8M=0.001s
+
+2013-03-04 02:52:26 (17.8 MB/s) - `www.visitbeijing.com.cn/topics/freemuseums/index.html' saved [21051]
+
+Removing www.visitbeijing.com.cn/topics/freemuseums/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/topics/2011winterspa/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/topics/2011winterspa/index.html'
+
+     0K .......... .......... .......                          17.3M=0.002s
+
+2013-03-04 02:52:26 (17.3 MB/s) - `www.visitbeijing.com.cn/topics/2011winterspa/index.html' saved [27670]
+
+Removing www.visitbeijing.com.cn/topics/2011winterspa/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/topics/bjski/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/topics/bjski/index.html'
+
+     0K .......... .......... .....                            17.6M=0.001s
+
+2013-03-04 02:52:26 (17.6 MB/s) - `www.visitbeijing.com.cn/topics/bjski/index.html' saved [26074]
+
+Removing www.visitbeijing.com.cn/topics/bjski/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/topics/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/topics/index.html'
+
+     0K .......... .......... .......... .......... ......     18.7M=0.002s
+
+2013-03-04 02:52:26 (18.7 MB/s) - `www.visitbeijing.com.cn/topics/index.html' saved [47462]
+
+Removing www.visitbeijing.com.cn/topics/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/arr_base.gif
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1171 (1.1K) [image/gif]
+Saving to: `www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/arr_base.gif'
+
+     0K .                                                     100%  103M=0s
+
+2013-03-04 02:52:26 (103 MB/s) - `www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/arr_base.gif' saved [1171/1171]
+
+Removing www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/arr_base.gif.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/weeksum/weeksum18/
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/weeksum/weeksum18/index.html'
+
+     0K .......... .......... .......... ........              13.1M=0.003s
+
+2013-03-04 02:52:26 (13.1 MB/s) - `www.visitbeijing.com.cn/weeksum/weeksum18/index.html' saved [39237]
+
+Removing www.visitbeijing.com.cn/weeksum/weeksum18/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/play/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/play/index.html'
+
+     0K .......... .......... .......... ......                22.1M=0.002s
+
+2013-03-04 02:52:26 (22.1 MB/s) - `www.visitbeijing.com.cn/play/index.html' saved [37085]
+
+Removing www.visitbeijing.com.cn/play/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/food/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/food/index.html'
+
+     0K .......... .......... .......... ..                    19.6M=0.002s
+
+2013-03-04 02:52:26 (19.6 MB/s) - `www.visitbeijing.com.cn/food/index.html' saved [32868]
+
+Removing www.visitbeijing.com.cn/food/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lodging/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lodging/index.html'
+
+     0K .......... .......... .......... ...                   19.9M=0.002s
+
+2013-03-04 02:52:26 (19.9 MB/s) - `www.visitbeijing.com.cn/lodging/index.html' saved [34134]
+
+Removing www.visitbeijing.com.cn/lodging/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/shopping/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/shopping/index.html'
+
+     0K .......... .......... .......... .                     19.8M=0.002s
+
+2013-03-04 02:52:26 (19.8 MB/s) - `www.visitbeijing.com.cn/shopping/index.html' saved [32549]
+
+Removing www.visitbeijing.com.cn/shopping/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/transport/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/transport/index.html'
+
+     0K .......... ........                                    19.1M=0.001s
+
+2013-03-04 02:52:26 (19.1 MB/s) - `www.visitbeijing.com.cn/transport/index.html' saved [19368]
+
+Removing www.visitbeijing.com.cn/transport/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/ylxx/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/ylxx/index.html'
+
+     0K .......... .......... ........                         18.2M=0.002s
+
+2013-03-04 02:52:26 (18.2 MB/s) - `www.visitbeijing.com.cn/ylxx/index.html' saved [29483]
+
+Removing www.visitbeijing.com.cn/ylxx/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/zl/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/zl/index.html'
+
+     0K .......... .......... ........                         17.6M=0.002s
+
+2013-03-04 02:52:26 (17.6 MB/s) - `www.visitbeijing.com.cn/zl/index.html' saved [29113]
+
+Removing www.visitbeijing.com.cn/zl/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/yanchu/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/yanchu/index.html'
+
+     0K .......... .......... ........                         18.6M=0.001s
+
+2013-03-04 02:52:26 (18.6 MB/s) - `www.visitbeijing.com.cn/yanchu/index.html' saved [28897]
+
+Removing www.visitbeijing.com.cn/yanchu/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/slhy/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/slhy/index.html'
+
+     0K .......... .......... ........                         18.1M=0.002s
+
+2013-03-04 02:52:26 (18.1 MB/s) - `www.visitbeijing.com.cn/slhy/index.html' saved [29489]
+
+Removing www.visitbeijing.com.cn/slhy/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/bjlw/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/bjlw/index.html'
+
+     0K .......... .......... .......                          19.2M=0.001s
+
+2013-03-04 02:52:26 (19.2 MB/s) - `www.visitbeijing.com.cn/bjlw/index.html' saved [27792]
+
+Removing www.visitbeijing.com.cn/bjlw/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/jjy/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/jjy/index.html'
+
+     0K .......... .......... .......                          18.7M=0.001s
+
+2013-03-04 02:52:26 (18.7 MB/s) - `www.visitbeijing.com.cn/jjy/index.html' saved [28263]
+
+Removing www.visitbeijing.com.cn/jjy/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/zzy/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/zzy/index.html'
+
+     0K .......... .......... .........                        19.1M=0.002s
+
+2013-03-04 02:52:26 (19.1 MB/s) - `www.visitbeijing.com.cn/zzy/index.html' saved [30413]
+
+Removing www.visitbeijing.com.cn/zzy/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/qxlv/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/qxlv/index.html'
+
+     0K .......... .......... ........                         18.8M=0.002s
+
+2013-03-04 02:52:26 (18.8 MB/s) - `www.visitbeijing.com.cn/qxlv/index.html' saved [29500]
+
+Removing www.visitbeijing.com.cn/qxlv/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/photo/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/photo/index.html'
+
+     0K .......... .......... .......... ..........            20.4M=0.002s
+
+2013-03-04 02:52:26 (20.4 MB/s) - `www.visitbeijing.com.cn/photo/index.html' saved [41561]
+
+Removing www.visitbeijing.com.cn/photo/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/video/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/video/index.html'
+
+     0K .......... .......... .......... .......... ..         18.9M=0.002s
+
+2013-03-04 02:52:26 (18.9 MB/s) - `www.visitbeijing.com.cn/video/index.html' saved [43189]
+
+Removing www.visitbeijing.com.cn/video/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/topics/calendar/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/topics/calendar/index.html'
+
+     0K .......... .                                           12.9M=0.001s
+
+2013-03-04 02:52:26 (12.9 MB/s) - `www.visitbeijing.com.cn/topics/calendar/index.html' saved [11669]
+
+Removing www.visitbeijing.com.cn/topics/calendar/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/new_index.gif
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1859 (1.8K) [image/gif]
+Saving to: `www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/new_index.gif'
+
+     0K .                                                     100%  151M=0s
+
+2013-03-04 02:52:26 (151 MB/s) - `www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/new_index.gif' saved [1859/1859]
+
+Removing www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/new_index.gif.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/food/flavors/n214711141.shtml
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/food/flavors/n214711141.shtml'
+
+     0K .......... .......... .......... .                     11.0M=0.003s
+
+2013-03-04 02:52:26 (11.0 MB/s) - `www.visitbeijing.com.cn/food/flavors/n214711141.shtml' saved [32419]
+
+Removing www.visitbeijing.com.cn/food/flavors/n214711141.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/food/flavors/n214788194.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/food/flavors/n214788194.shtml'
+
+     0K .......... .......... ..........                       18.3M=0.002s
+
+2013-03-04 02:52:26 (18.3 MB/s) - `www.visitbeijing.com.cn/food/flavors/n214788194.shtml' saved [31217]
+
+Removing www.visitbeijing.com.cn/food/flavors/n214788194.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/around/bjaround/n214718763.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/around/bjaround/n214718763.shtml'
+
+     0K .......... .......... ........                         21.2M=0.001s
+
+2013-03-04 02:52:26 (21.2 MB/s) - `www.visitbeijing.com.cn/around/bjaround/n214718763.shtml' saved [29145]
+
+Removing www.visitbeijing.com.cn/around/bjaround/n214718763.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/food/flavors/n214704858.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/food/flavors/n214704858.shtml'
+
+     0K .......... .......... .......... ..                    16.6M=0.002s
+
+2013-03-04 02:52:26 (16.6 MB/s) - `www.visitbeijing.com.cn/food/flavors/n214704858.shtml' saved [32978]
+
+Removing www.visitbeijing.com.cn/food/flavors/n214704858.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/food/flavors/n214726412.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/food/flavors/n214726412.shtml'
+
+     0K .......... .......... .......... ..                    16.9M=0.002s
+
+2013-03-04 02:52:26 (16.9 MB/s) - `www.visitbeijing.com.cn/food/flavors/n214726412.shtml' saved [33292]
+
+Removing www.visitbeijing.com.cn/food/flavors/n214726412.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/food_x/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/food_x/index.html'
+
+     0K .......... .......... .......... ..                    18.6M=0.002s
+
+2013-03-04 02:52:26 (18.6 MB/s) - `www.visitbeijing.com.cn/food_x/index.html' saved [32906]
+
+Removing www.visitbeijing.com.cn/food_x/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lodging/star-ratedtype/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lodging/star-ratedtype/index.html'
+
+     0K .......... .......... ..                               16.4M=0.001s
+
+2013-03-04 02:52:26 (16.4 MB/s) - `www.visitbeijing.com.cn/lodging/star-ratedtype/index.html' saved [23246]
+
+Removing www.visitbeijing.com.cn/lodging/star-ratedtype/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lodging/economictype/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lodging/economictype/index.html'
+
+     0K .......... .......... ..                               15.6M=0.001s
+
+2013-03-04 02:52:26 (15.6 MB/s) - `www.visitbeijing.com.cn/lodging/economictype/index.html' saved [23275]
+
+Removing www.visitbeijing.com.cn/lodging/economictype/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lodging/agritainment/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lodging/agritainment/index.html'
+
+     0K .......... .......... ...                              15.2M=0.002s
+
+2013-03-04 02:52:26 (15.2 MB/s) - `www.visitbeijing.com.cn/lodging/agritainment/index.html' saved [24033]
+
+Removing www.visitbeijing.com.cn/lodging/agritainment/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lodging/holidayresort/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lodging/holidayresort/index.html'
+
+     0K .......... .......... ...                              15.8M=0.001s
+
+2013-03-04 02:52:26 (15.8 MB/s) - `www.visitbeijing.com.cn/lodging/holidayresort/index.html' saved [24131]
+
+Removing www.visitbeijing.com.cn/lodging/holidayresort/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lodging/tsjd/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lodging/tsjd/index.html'
+
+     0K .......... .......... ...                              14.5M=0.002s
+
+2013-03-04 02:52:26 (14.5 MB/s) - `www.visitbeijing.com.cn/lodging/tsjd/index.html' saved [23927]
+
+Removing www.visitbeijing.com.cn/lodging/tsjd/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lodging/star-ratedtype/n214764987.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lodging/star-ratedtype/n214764987.shtml'
+
+     0K .......... .......... .......... .                     19.0M=0.002s
+
+2013-03-04 02:52:26 (19.0 MB/s) - `www.visitbeijing.com.cn/lodging/star-ratedtype/n214764987.shtml' saved [32268]
+
+Removing www.visitbeijing.com.cn/lodging/star-ratedtype/n214764987.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lodging/star-ratedtype/n214765006.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lodging/star-ratedtype/n214765006.shtml'
+
+     0K .......... .......... .......... ..                    19.2M=0.002s
+
+2013-03-04 02:52:26 (19.2 MB/s) - `www.visitbeijing.com.cn/lodging/star-ratedtype/n214765006.shtml' saved [33085]
+
+Removing www.visitbeijing.com.cn/lodging/star-ratedtype/n214765006.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lodging/star-ratedtype/n214787921.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lodging/star-ratedtype/n214787921.shtml'
+
+     0K .......... .......... .......... ..                    19.3M=0.002s
+
+2013-03-04 02:52:26 (19.3 MB/s) - `www.visitbeijing.com.cn/lodging/star-ratedtype/n214787921.shtml' saved [33235]
+
+Removing www.visitbeijing.com.cn/lodging/star-ratedtype/n214787921.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/hotel/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/hotel/index.html'
+
+     0K .......... .......... .                                19.0M=0.001s
+
+2013-03-04 02:52:26 (19.0 MB/s) - `www.visitbeijing.com.cn/hotel/index.html' saved [21606]
+
+Removing www.visitbeijing.com.cn/hotel/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lvgl/n214774180.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lvgl/n214774180.shtml'
+
+     0K .......... .......... .......... .                     19.0M=0.002s
+
+2013-03-04 02:52:26 (19.0 MB/s) - `www.visitbeijing.com.cn/lvgl/n214774180.shtml' saved [31970]
+
+Removing www.visitbeijing.com.cn/lvgl/n214774180.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/shopping/strategies/n214780710.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/shopping/strategies/n214780710.shtml'
+
+     0K .......... .......... .......... .                     20.0M=0.002s
+
+2013-03-04 02:52:26 (20.0 MB/s) - `www.visitbeijing.com.cn/shopping/strategies/n214780710.shtml' saved [32568]
+
+Removing www.visitbeijing.com.cn/shopping/strategies/n214780710.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/shopping/arcade/n214788015.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/shopping/arcade/n214788015.shtml'
+
+     0K .......... .......... .......... ...                   21.2M=0.002s
+
+2013-03-04 02:52:26 (21.2 MB/s) - `www.visitbeijing.com.cn/shopping/arcade/n214788015.shtml' saved [34583]
+
+Removing www.visitbeijing.com.cn/shopping/arcade/n214788015.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/shopping/arcade/n214788027.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/shopping/arcade/n214788027.shtml'
+
+     0K .......... .......... .......... ..                    18.9M=0.002s
+
+2013-03-04 02:52:26 (18.9 MB/s) - `www.visitbeijing.com.cn/shopping/arcade/n214788027.shtml' saved [33230]
+
+Removing www.visitbeijing.com.cn/shopping/arcade/n214788027.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/shopping/strategies/n214765110.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/shopping/strategies/n214765110.shtml'
+
+     0K .......... .......... .........                        16.9M=0.002s
+
+2013-03-04 02:52:26 (16.9 MB/s) - `www.visitbeijing.com.cn/shopping/strategies/n214765110.shtml' saved [30570]
+
+Removing www.visitbeijing.com.cn/shopping/strategies/n214765110.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/shopping_x/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/shopping_x/index.html'
+
+     0K .......... .......... .......... .                     19.9M=0.002s
+
+2013-03-04 02:52:26 (19.9 MB/s) - `www.visitbeijing.com.cn/shopping_x/index.html' saved [32571]
+
+Removing www.visitbeijing.com.cn/shopping_x/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/ggfw/n214789228.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/ggfw/n214789228.shtml'
+
+     0K .......... .......... .......... .......... .......... 10.5M
+    50K .......... .......... .......... .......... .......... 44.5M
+   100K .......... .......... .......... .......... .......... 68.0M
+   150K .......... .......... .......... .......... .......... 57.9M
+   200K .......... .......... .......... .......... .......... 65.6M
+   250K .......... .......... .......... .......... .......... 75.2M
+   300K .......... .......... .......... .......... .......... 54.7M
+   350K .......... .......... .......... .......... .......... 90.6M
+   400K .......... .......... .......... .......... .......... 95.1M
+   450K .......                                                13998G=0.01s
+
+2013-03-04 02:52:26 (42.0 MB/s) - `www.visitbeijing.com.cn/ggfw/n214789228.shtml' saved [468315]
+
+Removing www.visitbeijing.com.cn/ggfw/n214789228.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/ggfw/n214789229.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/ggfw/n214789229.shtml'
+
+     0K .......... .......... .......... .......... .......... 11.5M
+    50K .......... .......... .......... .......... .......... 31.4M
+   100K .......... .......... .......... .......... .......... 60.0M
+   150K .......... .......... .......... .......... .......... 82.2M
+   200K .......... .......... .......... .......... .......... 80.9M
+   250K .......... .......... .......... .......... .......... 96.1M
+   300K .......... .......... .......... .......... ..........  101M
+   350K .......... .......... .......... .......... .......... 87.8M
+   400K .......... .......... .......... .......... .......... 87.8M
+   450K .......... .......... .......... .......... .......... 76.8M
+   500K .......... .......... .......... .......... .......... 98.4M
+   550K .......... .......... .......... .......... .......... 98.1M
+   600K .......... .......... .......... .......... .......... 82.1M
+   650K .......... .......... .......... .......... .......... 87.6M
+   700K .......... .......... .......... .......... .......... 80.7M
+   750K .......... .......... .......... .......... .......... 83.3M
+   800K .......... .......... .......... .......... .......... 90.6M
+   850K .......... .......... .......... .......... .......... 78.9M
+   900K .......... .......... .......... .......... ..........  111M
+   950K .......... .......... .......... .......... .......... 79.6M
+  1000K .......... .......... .......... ........              94.4M=0.02s
+
+2013-03-04 02:52:26 (61.4 MB/s) - `www.visitbeijing.com.cn/ggfw/n214789229.shtml' saved [1063197]
+
+Removing www.visitbeijing.com.cn/ggfw/n214789229.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/ggfw/n214789230.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/ggfw/n214789230.shtml'
+
+     0K .......... .......... .......... .......... .......... 20.4M
+    50K .......                                                73.1M=0.002s
+
+2013-03-04 02:52:26 (22.6 MB/s) - `www.visitbeijing.com.cn/ggfw/n214789230.shtml' saved [58999]
+
+Removing www.visitbeijing.com.cn/ggfw/n214789230.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/ggfw/n214789231.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/ggfw/n214789231.shtml'
+
+     0K .......... .......... .......... .......... .......... 10.9M
+    50K .......... .......... .......... .......... .......... 53.7M
+   100K .......... .......... .......... .......... .......... 70.8M
+   150K .......... .......... .......... .......... .......... 79.5M
+   200K .......... .......... .......... .......... .......... 80.9M
+   250K .......... .......... .......... .......... .......... 98.4M
+   300K .......... .......... .......... .......... .......... 84.3M
+   350K .......... .......... .......... .......... .......... 88.9M
+   400K .......... .......... ..........                        111M=0.009s
+
+2013-03-04 02:52:26 (45.8 MB/s) - `www.visitbeijing.com.cn/ggfw/n214789231.shtml' saved [441072]
+
+Removing www.visitbeijing.com.cn/ggfw/n214789231.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/ggfw/n214789232.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/ggfw/n214789232.shtml'
+
+     0K .......... .......... .......... .......... .......    20.8M=0.002s
+
+2013-03-04 02:52:26 (20.8 MB/s) - `www.visitbeijing.com.cn/ggfw/n214789232.shtml' saved [48340]
+
+Removing www.visitbeijing.com.cn/ggfw/n214789232.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/ggfw/n214789233.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/ggfw/n214789233.shtml'
+
+     0K .......... .......... .......... .......... .......... 11.9M
+    50K .......... .......... .......... .......... .......... 63.3M
+   100K .......... .......... .......... .......... .......... 88.8M
+   150K .......... .......... .......... .......... .......... 76.9M
+   200K .......... .......... .......... .......... .......... 95.2M
+   250K .......... .......... .......... .......... .........  97.6M=0.007s
+
+2013-03-04 02:52:26 (41.3 MB/s) - `www.visitbeijing.com.cn/ggfw/n214789233.shtml' saved [306966]
+
+Removing www.visitbeijing.com.cn/ggfw/n214789233.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/weekplay/week29/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/weekplay/week29/index.html'
+
+     0K .......... .......... ..........                       19.7M=0.001s
+
+2013-03-04 02:52:26 (19.7 MB/s) - `www.visitbeijing.com.cn/weekplay/week29/index.html' saved [30993]
+
+Removing www.visitbeijing.com.cn/weekplay/week29/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lodging/tsjd/n214807041.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lodging/tsjd/n214807041.shtml'
+
+     0K .......... .......... .......... ...                   19.7M=0.002s
+
+2013-03-04 02:52:26 (19.7 MB/s) - `www.visitbeijing.com.cn/lodging/tsjd/n214807041.shtml' saved [33856]
+
+Removing www.visitbeijing.com.cn/lodging/tsjd/n214807041.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lodging/holidayresort/n214805428.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lodging/holidayresort/n214805428.shtml'
+
+     0K .......... .......... .......... ....                  19.3M=0.002s
+
+2013-03-04 02:52:26 (19.3 MB/s) - `www.visitbeijing.com.cn/lodging/holidayresort/n214805428.shtml' saved [35379]
+
+Removing www.visitbeijing.com.cn/lodging/holidayresort/n214805428.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/loading_index.gif
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3450 (3.4K) [image/gif]
+Saving to: `www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/loading_index.gif'
+
+     0K ...                                                   100% 10.1M=0s
+
+2013-03-04 02:52:26 (10.1 MB/s) - `www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/loading_index.gif' saved [3450/3450]
+
+Removing www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/loading_index.gif.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/news/
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/news/index.html'
+
+     0K .......... ..........                                  14.7M=0.001s
+
+2013-03-04 02:52:26 (14.7 MB/s) - `www.visitbeijing.com.cn/news/index.html' saved [20843]
+
+Removing www.visitbeijing.com.cn/news/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/news/n214810217.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/news/n214810217.shtml'
+
+     0K .......... .......... .......... .                     20.2M=0.002s
+
+2013-03-04 02:52:26 (20.2 MB/s) - `www.visitbeijing.com.cn/news/n214810217.shtml' saved [31954]
+
+Removing www.visitbeijing.com.cn/news/n214810217.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/news/n214809636.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/news/n214809636.shtml'
+
+     0K .......... .......... ........                         17.4M=0.002s
+
+2013-03-04 02:52:26 (17.4 MB/s) - `www.visitbeijing.com.cn/news/n214809636.shtml' saved [28914]
+
+Removing www.visitbeijing.com.cn/news/n214809636.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/news/n214809644.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/news/n214809644.shtml'
+
+     0K .......... .......... .........                        17.9M=0.002s
+
+2013-03-04 02:52:26 (17.9 MB/s) - `www.visitbeijing.com.cn/news/n214809644.shtml' saved [29758]
+
+Removing www.visitbeijing.com.cn/news/n214809644.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/news/n214809622.shtmlhttp
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2013-03-04 02:52:26 ERROR 404: Not Found.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/news/n214809649.shtml
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/news/n214809649.shtml'
+
+     0K .......... .......... ........                         13.0M=0.002s
+
+2013-03-04 02:52:26 (13.0 MB/s) - `www.visitbeijing.com.cn/news/n214809649.shtml' saved [29255]
+
+Removing www.visitbeijing.com.cn/news/n214809649.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/news/n214808692.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/news/n214808692.shtml'
+
+     0K .......... .......... ........                         17.5M=0.002s
+
+2013-03-04 02:52:26 (17.5 MB/s) - `www.visitbeijing.com.cn/news/n214808692.shtml' saved [29215]
+
+Removing www.visitbeijing.com.cn/news/n214808692.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/news/n214808688.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/news/n214808688.shtml'
+
+     0K .......... .......... ........                         14.8M=0.002s
+
+2013-03-04 02:52:26 (14.8 MB/s) - `www.visitbeijing.com.cn/news/n214808688.shtml' saved [29061]
+
+Removing www.visitbeijing.com.cn/news/n214808688.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/news/n214807927.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/news/n214807927.shtml'
+
+     0K .......... .......... .......... .                     18.4M=0.002s
+
+2013-03-04 02:52:26 (18.4 MB/s) - `www.visitbeijing.com.cn/news/n214807927.shtml' saved [32018]
+
+Removing www.visitbeijing.com.cn/news/n214807927.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/jjy/jjydjrd/n214807925.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/jjy/jjydjrd/n214807925.shtml'
+
+     0K .......... .......... .........                        20.6M=0.001s
+
+2013-03-04 02:52:26 (20.6 MB/s) - `www.visitbeijing.com.cn/jjy/jjydjrd/n214807925.shtml' saved [30716]
+
+Removing www.visitbeijing.com.cn/jjy/jjydjrd/n214807925.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/jjy/rmmdd/n214806683.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/jjy/rmmdd/n214806683.shtml'
+
+     0K .......... .......... .......... .                     21.1M=0.001s
+
+2013-03-04 02:52:26 (21.1 MB/s) - `www.visitbeijing.com.cn/jjy/rmmdd/n214806683.shtml' saved [32569]
+
+Removing www.visitbeijing.com.cn/jjy/rmmdd/n214806683.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/jjy/rmmdd/n214803025.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/jjy/rmmdd/n214803025.shtml'
+
+     0K .......... .......... .......... ...                   18.8M=0.002s
+
+2013-03-04 02:52:26 (18.8 MB/s) - `www.visitbeijing.com.cn/jjy/rmmdd/n214803025.shtml' saved [34814]
+
+Removing www.visitbeijing.com.cn/jjy/rmmdd/n214803025.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/jjy/rmmdd/n214802556.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/jjy/rmmdd/n214802556.shtml'
+
+     0K .......... .......... ..........                       19.3M=0.002s
+
+2013-03-04 02:52:26 (19.3 MB/s) - `www.visitbeijing.com.cn/jjy/rmmdd/n214802556.shtml' saved [31303]
+
+Removing www.visitbeijing.com.cn/jjy/rmmdd/n214802556.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/play/thematic/dsy/n214809042.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/play/thematic/dsy/n214809042.shtml'
+
+     0K .......... .......... .......... ...                   22.8M=0.001s
+
+2013-03-04 02:52:26 (22.8 MB/s) - `www.visitbeijing.com.cn/play/thematic/dsy/n214809042.shtml' saved [34719]
+
+Removing www.visitbeijing.com.cn/play/thematic/dsy/n214809042.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/play/thematic/hty/n214808116.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/play/thematic/hty/n214808116.shtml'
+
+     0K .......... .......... .......... .....                 22.0M=0.002s
+
+2013-03-04 02:52:26 (22.0 MB/s) - `www.visitbeijing.com.cn/play/thematic/hty/n214808116.shtml' saved [36187]
+
+Removing www.visitbeijing.com.cn/play/thematic/hty/n214808116.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/topics/bwgml/
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/topics/bwgml/index.html'
+
+     0K .......... .......... .......... .......... .......... 18.2M
+    50K .......... .......... ..........                       53.3M=0.003s
+
+2013-03-04 02:52:26 (24.2 MB/s) - `www.visitbeijing.com.cn/topics/bwgml/index.html' saved [82506]
+
+Removing www.visitbeijing.com.cn/topics/bwgml/index.html.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/food/fashionable/n214809426.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/food/fashionable/n214809426.shtml'
+
+     0K .......... .......... .......... ...                   20.1M=0.002s
+
+2013-03-04 02:52:26 (20.1 MB/s) - `www.visitbeijing.com.cn/food/fashionable/n214809426.shtml' saved [34419]
+
+Removing www.visitbeijing.com.cn/food/fashionable/n214809426.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/shopping/strategies/n214808702.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/shopping/strategies/n214808702.shtml'
+
+     0K .......... .......... ........                         18.4M=0.002s
+
+2013-03-04 02:52:26 (18.4 MB/s) - `www.visitbeijing.com.cn/shopping/strategies/n214808702.shtml' saved [29438]
+
+Removing www.visitbeijing.com.cn/shopping/strategies/n214808702.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lodging/tsjd/n214808897.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lodging/tsjd/n214808897.shtml'
+
+     0K .......... .......... .......... ...                   19.0M=0.002s
+
+2013-03-04 02:52:26 (19.0 MB/s) - `www.visitbeijing.com.cn/lodging/tsjd/n214808897.shtml' saved [34567]
+
+Removing www.visitbeijing.com.cn/lodging/tsjd/n214808897.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/soJq_index.gif
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5099 (5.0K) [image/gif]
+Saving to: `www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/soJq_index.gif'
+
+     0K ....                                                  100% 11.4M=0s
+
+2013-03-04 02:52:26 (11.4 MB/s) - `www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/soJq_index.gif' saved [5099/5099]
+
+Removing www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/soJq_index.gif.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/c.jpg
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2199 (2.1K) [image/jpeg]
+Saving to: `www.visitbeijing.com.cn/upload/c.jpg'
+
+     0K ..                                                    100%  178M=0s
+
+2013-03-04 02:52:26 (178 MB/s) - `www.visitbeijing.com.cn/upload/c.jpg' saved [2199/2199]
+
+Removing www.visitbeijing.com.cn/upload/c.jpg.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/d.jpg
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2428 (2.4K) [image/jpeg]
+Saving to: `www.visitbeijing.com.cn/upload/d.jpg'
+
+     0K ..                                                    100%  206M=0s
+
+2013-03-04 02:52:26 (206 MB/s) - `www.visitbeijing.com.cn/upload/d.jpg' saved [2428/2428]
+
+Removing www.visitbeijing.com.cn/upload/d.jpg.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/e.jpg
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2701 (2.6K) [image/jpeg]
+Saving to: `www.visitbeijing.com.cn/upload/e.jpg'
+
+     0K ..                                                    100%  229M=0s
+
+2013-03-04 02:52:26 (229 MB/s) - `www.visitbeijing.com.cn/upload/e.jpg' saved [2701/2701]
+
+Removing www.visitbeijing.com.cn/upload/e.jpg.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/f.jpg
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2729 (2.7K) [image/jpeg]
+Saving to: `www.visitbeijing.com.cn/upload/f.jpg'
+
+     0K ..                                                    100%  209M=0s
+
+2013-03-04 02:52:26 (209 MB/s) - `www.visitbeijing.com.cn/upload/f.jpg' saved [2729/2729]
+
+Removing www.visitbeijing.com.cn/upload/f.jpg.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/g.jpg
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2488 (2.4K) [image/jpeg]
+Saving to: `www.visitbeijing.com.cn/upload/g.jpg'
+
+     0K ..                                                    100%  215M=0s
+
+2013-03-04 02:52:26 (215 MB/s) - `www.visitbeijing.com.cn/upload/g.jpg' saved [2488/2488]
+
+Removing www.visitbeijing.com.cn/upload/g.jpg.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/h.jpg
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2732 (2.7K) [image/jpeg]
+Saving to: `www.visitbeijing.com.cn/upload/h.jpg'
+
+     0K ..                                                    100%  213M=0s
+
+2013-03-04 02:52:26 (213 MB/s) - `www.visitbeijing.com.cn/upload/h.jpg' saved [2732/2732]
+
+Removing www.visitbeijing.com.cn/upload/h.jpg.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/i.jpg
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2640 (2.6K) [image/jpeg]
+Saving to: `www.visitbeijing.com.cn/upload/i.jpg'
+
+     0K ..                                                    100%  209M=0s
+
+2013-03-04 02:52:26 (209 MB/s) - `www.visitbeijing.com.cn/upload/i.jpg' saved [2640/2640]
+
+Removing www.visitbeijing.com.cn/upload/i.jpg.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/play/sight/n214809669.shtml
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/play/sight/n214809669.shtml'
+
+     0K .......... .......... .......... ....                  15.9M=0.002s
+
+2013-03-04 02:52:26 (15.9 MB/s) - `www.visitbeijing.com.cn/play/sight/n214809669.shtml' saved [35777]
+
+Removing www.visitbeijing.com.cn/play/sight/n214809669.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/play/thematic/dsy/n214809691.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/play/thematic/dsy/n214809691.shtml'
+
+     0K .......... .......... ..........                       18.8M=0.002s
+
+2013-03-04 02:52:26 (18.8 MB/s) - `www.visitbeijing.com.cn/play/thematic/dsy/n214809691.shtml' saved [30908]
+
+Removing www.visitbeijing.com.cn/play/thematic/dsy/n214809691.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/play/sight/n214688538.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/play/sight/n214688538.shtml'
+
+     0K .......... .......... .......... .                     18.2M=0.002s
+
+2013-03-04 02:52:26 (18.2 MB/s) - `www.visitbeijing.com.cn/play/sight/n214688538.shtml' saved [31959]
+
+Removing www.visitbeijing.com.cn/play/sight/n214688538.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/play/thematic/hty/n214808282.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/play/thematic/hty/n214808282.shtml'
+
+     0K .......... .......... ..........                       19.5M=0.002s
+
+2013-03-04 02:52:26 (19.5 MB/s) - `www.visitbeijing.com.cn/play/thematic/hty/n214808282.shtml' saved [31610]
+
+Removing www.visitbeijing.com.cn/play/thematic/hty/n214808282.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/play/thematic/hty/n214808299.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/play/thematic/hty/n214808299.shtml'
+
+     0K .......... .......... .......... ..                    19.0M=0.002s
+
+2013-03-04 02:52:26 (19.0 MB/s) - `www.visitbeijing.com.cn/play/thematic/hty/n214808299.shtml' saved [33203]
+
+Removing www.visitbeijing.com.cn/play/thematic/hty/n214808299.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/play/thematic/hty/n214808263.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/play/thematic/hty/n214808263.shtml'
+
+     0K .......... .......... .......... ..                    18.1M=0.002s
+
+2013-03-04 02:52:26 (18.1 MB/s) - `www.visitbeijing.com.cn/play/thematic/hty/n214808263.shtml' saved [33077]
+
+Removing www.visitbeijing.com.cn/play/thematic/hty/n214808263.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lvgl/n214771956.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lvgl/n214771956.shtml'
+
+     0K .......... .......... ..........                       18.0M=0.002s
+
+2013-03-04 02:52:26 (18.0 MB/s) - `www.visitbeijing.com.cn/lvgl/n214771956.shtml' saved [31626]
+
+Removing www.visitbeijing.com.cn/lvgl/n214771956.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lvgl/n214771892.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lvgl/n214771892.shtml'
+
+     0K .......... .......... .......... .......... .......... 17.0M
+    50K ..                                                     5621G=0.003s
+
+2013-03-04 02:52:26 (18.0 MB/s) - `www.visitbeijing.com.cn/lvgl/n214771892.shtml' saved [54218]
+
+Removing www.visitbeijing.com.cn/lvgl/n214771892.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lvgl/n214772407.shtml
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lvgl/n214772407.shtml'
+
+     0K .......... .......... .......... .                     16.9M=0.002s
+
+2013-03-04 02:52:26 (16.9 MB/s) - `www.visitbeijing.com.cn/lvgl/n214772407.shtml' saved [32398]
+
+Removing www.visitbeijing.com.cn/lvgl/n214772407.shtml.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/soHotel_index.gif
+Connecting to www.visitbeijing.com.cn|115.25.217.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5397 (5.3K) [image/gif]
+Saving to: `www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/soHotel_index.gif'
+
+     0K .....                                                 100% 12.8M=0s
+
+2013-03-04 02:52:26 (12.8 MB/s) - `www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/soHotel_index.gif' saved [5397/5397]
+
+Removing www.visitbeijing.com.cn/upload/cn_visitbj/newX/images/soHotel_index.gif.
+
+--2013-03-04 02:52:26--  http://www.visitbeijing.com.cn/lodging/tsjd/n214809280.shtml
+Reusing existing connection to www.visitbeijing.com.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `www.visitbeijing.com.cn/lodging/tsjd/n214809280.shtml'
+
+     0K .......... .......... .......... ...                   14.9M=0.002s
+
+2013-03-04 02:52:26 (14.9 MB/s) - `www.visitbeijing.com.cn/lodging/tsjd/n214809280.shtml' saved [34072]
+
+Removing www.visitbeijing.com.cn/lodging/tsjd/n214809280.shtml.
+
+FINISHED --2013-03-04 02:52:26--
+Downloaded: 102 files, 5.0M in 0.2s (26.7 MB/s)
+Download quota of 5.0M EXCEEDED!

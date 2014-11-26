@@ -1,0 +1,6 @@
+planetlab2.ntu.nodes.planet-lab.org
+planetlab2.ie.cuhk.edu.hk
+planetlab1.plab.ege.edu.tr
+planetlab2.research.nicta.com.au
+planetlab1.ie.cuhk.edu.hk
+planetlab1.nrl.eecs.qmul.ac.uk
